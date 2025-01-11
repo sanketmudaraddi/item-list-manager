@@ -11,19 +11,9 @@ Item List Manager is a simple React application that allows users to manage a li
 - Item list is displayed with alternating background colors for better readability.
 - Hover effect for better interaction with items.
 
-## Screenshots
-![App Screenshot](images/app-screenshot.png)
-
-*Note: Make sure to add an actual image file named `app-screenshot.png` inside the `images` folder of your repository.*
-
 ## How to Run
 
 1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/sanketmudaraddi/item-list-manager.git
-   ```
-1.Clone this repository to your local machine:
 
    ```bash
    git clone https://github.com/sanketmudaraddi/item-list-manager.git
@@ -54,3 +44,5 @@ Item List Manager is a simple React application that allows users to manage a li
 - JavaScript
 - CSS (for styling)
 
+## Screenshot
+![App Screenshot](images/app-screenshot.png)
